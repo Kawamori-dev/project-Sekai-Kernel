@@ -1,1 +1,1 @@
-# project-Sekai-Kernel
+# project: Sekai Kernel

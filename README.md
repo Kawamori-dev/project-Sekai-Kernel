@@ -1,6 +1,9 @@
 # project: Sekai Kernel <br>
 
-####Roadmap:
+#### Roadmap:
+- [x] Boot Sekai kernel for first time
 - [x] Make code Posix Standard and Windows NT compatiable
-- [ ] Hot Reloadable Threads API writing
-- [ ] Render writing 
+- [x] Create Custom Networking protocol
+- [ ] Create Sekai messanging system (ITCP Inter Thread Communication Protocol API)
+- [ ] Create Hot Reloadable Threads API 
+- [ ] Create Render  

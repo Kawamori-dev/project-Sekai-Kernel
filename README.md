@@ -1,6 +1,6 @@
 # project: Sekai Kernel <br>
 
-![picture_0](https://i.ibb.co/JRHnRqxM/picture-0.png)
+<img src="https://i.ibb.co/JRHnRqxM/picture-0.png" alt="drawing" width="80%" height="auto"/>
 
 #### Roadmap:
 - [x] Boot Sekai kernel for first time

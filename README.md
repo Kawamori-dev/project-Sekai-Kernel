@@ -1,5 +1,7 @@
 # project: Sekai Kernel <br>
 
+![alt text](https://ibb.co/JRHnRqxM)
+
 #### Roadmap:
 - [x] Boot Sekai kernel for first time
 - [x] Make client code Posix Standard and Windows NT compatiable

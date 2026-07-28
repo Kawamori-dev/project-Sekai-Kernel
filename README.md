@@ -6,7 +6,11 @@ And one megabyte felt like a whole universe for a lonely one, universe where I c
 
 Not far ago I started working on MMO RPG video game called "Dark Swordland Online". It's giant project and it can be downloaded in it's branch if already released as demo. <br>
 
-The **"Project: Sekai Kernel"** is an engine of "Dark Swordland Online". At some point I noticed that game engine became somehow looks like it's an Operating system inside another operating system.
+The **"Project: Sekai Kernel"** is an engine of "Dark Swordland Online". At some point I noticed that game engine became somehow looks like it's an Operating system inside another Operating System. <br>
+
+#### Some interesting solutions:
+- Every piece of world can be changed without game server process restart. <br>
+I called it HRT aka "Hot Reload-able Threads". "Kernel" component reacts on changing in source files and re-compiles them automatically.
 
 
 <img src="https://i.ibb.co/gMJyMdvB/picture-0.png" alt="drawing" width="80%" height="auto"/>

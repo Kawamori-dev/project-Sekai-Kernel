@@ -12,7 +12,10 @@ The **"Project: Sekai Kernel"** is an engine of "Dark Swordland Online". At some
 - Every piece of world can be changed without game server process restart. <br>
 I called it HRT aka "Hot Reloadable Threads". The "Kernel" component reacts on changing (by checking timestamp of last change) in source files and re-compiles them automatically.
 - Minimal dependents, cross-platform client.<br>
-I used minimal amount of dependents. Main dependency is SDL2 - I use it to avoid suspicion of keylogging and window creating. I just get Framebuffer of the window and do render on my own. 
+I used minimal amount of dependents. Main dependency is SDL2 - I use it to avoid suspicion of keylogging and window creating. I just get Framebuffer of the window and do render on my own.
+I also made client work on Windows as well as on any POSIX Operating System. <br>
+- Fast, Reliable Custom Networking Protocol.
+Hah. I did my engine send HTTP 1.1/ 503th code "Forbidden" to everyone who tries to send packages without required signature and drop connection. It helps avoid to lost time on parsing garbage like scanner, spam bots and etc. <br>
 
 #### I am careful about some details:
 I dunno will I share my Game Engine with humans or not, but if so I did good logging: <br>

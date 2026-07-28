@@ -13,6 +13,9 @@ The **"Project: Sekai Kernel"** is an engine of "Dark Swordland Online". At some
 I called it HRT aka "Hot Reload-able Threads". "Kernel" component reacts on changing in source files and re-compiles them automatically.
 
 
+#### I am careful about some details:
+I dunno will I share my Game Engine with humans or not, but if so I did good logging: <br>
+
 <img src="https://i.ibb.co/gMJyMdvB/picture-0.png" alt="drawing" width="80%" height="auto"/>
 
 #### Roadmap:
